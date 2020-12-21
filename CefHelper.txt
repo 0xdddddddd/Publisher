@@ -1,0 +1,33 @@
+https://dev.yunxin.163.com/docs/product/%E9%80%9A%E7%94%A8/Demo%E6%BA%90%E7%A0%81%E5%AF%BC%E8%AF%BB/PC%E9%80%9A%E7%94%A8/Demo%20CEF%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97
+https://github.com/fanfeilong/cefutil
+
+CefClient 中返回的回调类包括：
+
+CefContextMenuHandler，回调类，主要用于处理 Context Menu 事件。
+
+CefDialogHandler，回调类，主要用来处理对话框事件。
+
+CefDisplayHandler，回调类，处理与页面状态相关的事件，如页面加载情况的变化，地址栏变化，标题变化等事件。
+
+CefDownloadHandler，回调类，主要用来处理文件下载。
+
+CefFocusHandler，回调类，主要用来处理焦点事件。
+
+CefGeolocationHandler，回调类，用于申请 geolocation 权限。
+
+CefJSDialogHandler，回调类，主要用来处理 JS 对话框事件。
+
+CefKeyboardHandler，回调类，主要用来处理键盘输入事件。
+
+CefLifeSpanHandler，回调类，主要用来处理与浏览器生命周期相关的事件，与浏览器对象的创建、销毁以及弹出框的管理。
+
+CefLoadHandler，回调类，主要用来处理浏览器页面加载状态的变化，如页面加载开始，完成，出错等。
+
+CefRenderHandler，回调类，主要用来处在在窗口渲染功能被关闭的情况下的事件。
+
+CefRequestHandler，回调类，主要用来处理与浏览器请求相关的的事件，如资源的的加载，重定向等。
+
+
+https://blog.csdn.net/cair2/article/details/91047363
+
+https://blog.csdn.net/sc303165/article/details/105175449
